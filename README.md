@@ -11,3 +11,29 @@
 
 # Start Simulation dibawah menampilkan jarak tidak aman jika jarak kurang dari 30cm
 ![image](https://user-images.githubusercontent.com/72422050/127757159-b9a60f48-6f02-4930-8273-67e78d1465b4.png)
+
+  ### 1. Buka Tinkercad di Browser
+
+ - ```bash
+    Tarik Komponen-Komponen yang ada di sebelah Kanan
+    > Berikut macam-macam Komponennya:
+  
+    > Arduino UNO R3
+    > ![image](https://user-images.githubusercontent.com/72422050/127757640-0fe34bec-20d9-474a-b1ff-fb4008a17e8d.png)
+
+    > Breadboard Half
+    > ![image](https://user-images.githubusercontent.com/72422050/127757653-1a2456dc-72d1-4df8-b6a8-bd2cbc2d6ab5.png)
+
+    > Ultrasonic Distance Sensor
+    >![image](https://user-images.githubusercontent.com/72422050/127757667-c8e8d6e4-c373-4f01-934c-5f75461154bb.png)
+
+    > LCD 16x2
+    > ![image](https://user-images.githubusercontent.com/72422050/127757677-09b1f0a5-776c-46eb-b91a-675b6b08cf72.png)
+  
+    > Potentiometer
+    > ![image](https://user-images.githubusercontent.com/72422050/127757707-878756e7-0082-4652-b93b-0da49c913ebc.png)
+
+    > Led Merah dan Hijau
+    > ![image](https://user-images.githubusercontent.com/72422050/127757725-69b07fd8-1ed7-49e7-85d5-077b05e1c3da.png)
+
+    ```
