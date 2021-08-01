@@ -8,3 +8,6 @@
 # Start Simulation dibawah menampilkan jarak aman jika jarak lebih dari 30cm
 
 ![image](https://user-images.githubusercontent.com/72422050/127756902-b0fbb863-dc88-4979-a6d2-58b1e616f748.png)
+
+# Start Simulation dibawah menampilkan jarak tidak aman jika jarak kurang dari 30cm
+![image](https://user-images.githubusercontent.com/72422050/127757159-b9a60f48-6f02-4930-8273-67e78d1465b4.png)
