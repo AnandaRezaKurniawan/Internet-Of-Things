@@ -19,9 +19,12 @@
     > Berikut macam-macam Komponennya:
   
     > Arduino UNO R3
-    > ![image](https://user-images.githubusercontent.com/72422050/127757640-0fe34bec-20d9-474a-b1ff-fb4008a17e8d.png)
-
+    ```
+    ![image](https://user-images.githubusercontent.com/72422050/127757640-0fe34bec-20d9-474a-b1ff-fb4008a17e8d.png)
+  
+ - ```bash
     > Breadboard Half
+    ```
     > ![image](https://user-images.githubusercontent.com/72422050/127757653-1a2456dc-72d1-4df8-b6a8-bd2cbc2d6ab5.png)
 
     > Ultrasonic Distance Sensor
