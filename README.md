@@ -17,7 +17,9 @@
  - ```bash
     Tarik Komponen-Komponen yang ada di sebelah Kanan
     > Berikut macam-macam Komponennya:
+   ```
   
+ - ```bash
     > Arduino UNO R3
     ```
     ![image](https://user-images.githubusercontent.com/72422050/127757640-0fe34bec-20d9-474a-b1ff-fb4008a17e8d.png)
